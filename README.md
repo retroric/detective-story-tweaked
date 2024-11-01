@@ -3,7 +3,7 @@ Version corrigée et améliorée du jeu original DETECTIVE STORY pour Oric 1 et 
 
 This is a corrected/tweaked version of DETECTIVE STORY, an Oric-1/Atmos criminal investigation game, now featuring a fully adapted/translated English version for international Oric users to enjoy, nearly 40 years after its original reelase!
 
-_First released by retroric <retroric48k@yahoo.f> on Nov 1st 2024 as a late celebration of 'Orictober' 2024!_
+_First released by retroric <retroric48k@yahoo.fr> on Nov 1st 2024 as a late celebration of 'Orictober' 2024!_
 
 ## Version originale / Original version
 
