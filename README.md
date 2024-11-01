@@ -21,4 +21,4 @@ A very interesting article on this game was published (in French) in the August 
 
 ## Brand-new English version
 - DETECTIVE-en.bas is the BASIC source code for the English version (fully adapted/translated from the tweaked French version)
-- the corresponding TAPE is 'DECTECTIVE-en.tap' in the BUILD subdirectory
+- the corresponding TAPE is 'DETECTIVE-en.tap' in the BUILD subdirectory
